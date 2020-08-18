@@ -78,3 +78,8 @@ inline double invNormalCdf(const double p)
 
 	return sup? r: -r;
 }
+
+inline double f(double x)
+{
+	return x;
+}
